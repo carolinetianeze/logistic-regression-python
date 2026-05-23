@@ -43,3 +43,6 @@ $$\text{BMI} = 703 \times \frac{\text{weight (lb)}}{\text{height (in)}^2}$$
 
 ## Public Health Implications
 The transition to a logistic model reinforces that smoking is not just a weight reducer, but a primary driver of clinical "Low Birth Weight" status. Prenatal interventions focusing on smoking cessation and extending gestation remain the two most effective pathways for improving neonatal health outcomes.
+
+---
+**Developed by Caroline** – *Pharmacoepidemiologist & RWE Analytics Consultant*
